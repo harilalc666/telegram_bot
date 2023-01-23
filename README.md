@@ -25,6 +25,6 @@ To test the bot, you need to have Telegram app installed on your phone or comput
 * Telegram Bot API
 
 ## Linkedin - connect if any query 
-[Linkedin](https://www.linkedin.com/in/harilal-chauhan-63aa8a157)
+<a href="https://www.linkedin.com/in/harilal-chauhan-63aa8a157" target="_blank">LinkedIn</a>
 
 
